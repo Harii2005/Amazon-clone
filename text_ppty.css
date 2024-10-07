@@ -1,0 +1,50 @@
+h1{
+    text-align: left;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: right;
+}
+
+/* start means from left and end means from right */
+
+p{
+    text-align: start;
+}
+
+
+h1{
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: blue;
+
+}
+
+
+/* by this the under line for link in ankor tag will be gone */
+a{
+    text-decoration: none;
+}
+
+
+/* font weight vary from 100-900 greater the number darker will be the color of the text */
+h1{
+    font-weight: 100;
+}
+h2{
+    font-weight:450;
+}
+h3{
+    font-weight: 900;
+}
+
+/* used to changr the font type */
+.pink{
+    font-family: 'Segoe UI';
+    color: pink;
+    background-color: black;
+}
+
+ 

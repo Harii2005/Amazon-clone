@@ -1,0 +1,16 @@
+div{
+    width: 100px;
+    height: 100px;
+    color: black;
+    background-color: pink;
+    border: 2px solid #ffff00;
+    position: absolute;
+    left: 100px;
+    top: 100px;
+    transform:rotate(45deg); 
+    transition: all 2s ease-in;
+}
+
+div:hover{
+    background-color: blue;
+}
